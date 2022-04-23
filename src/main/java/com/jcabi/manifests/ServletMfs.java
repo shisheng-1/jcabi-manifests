@@ -52,7 +52,7 @@ import javax.servlet.ServletContext;
  * <p>The class is thread-safe.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 21a1040c5e4a5d19a818b37d1fe74a4823fb30ea $
  * @since 1.0
  */
 public final class ServletMfs implements Mfs {

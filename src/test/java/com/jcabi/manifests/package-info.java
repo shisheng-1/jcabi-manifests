@@ -32,7 +32,7 @@
  * Reader of {@code META-INF/MANIFEST.MF} files, tests.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 0816439c8d78737e9a7aa8ee5dd2a7e841f9a1a1 $
  * @since 0.7
  */
 package com.jcabi.manifests;

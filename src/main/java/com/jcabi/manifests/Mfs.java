@@ -37,7 +37,7 @@ import java.util.Collection;
  * Manifests.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: b7ba3e8d86059d1660c29e73222b8adc5d3b4626 $
  * @since 1.0
  */
 public interface Mfs {

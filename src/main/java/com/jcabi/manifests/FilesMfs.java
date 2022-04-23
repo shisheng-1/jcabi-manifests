@@ -46,7 +46,7 @@ import java.util.Collections;
  * <p>The class is immutable and thread-safe.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 85adec77a7d06e62de47fd16ded8f963e69d7c61 $
  * @since 1.1
  */
 public final class FilesMfs implements Mfs {

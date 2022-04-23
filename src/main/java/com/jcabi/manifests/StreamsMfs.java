@@ -45,7 +45,7 @@ import java.util.Collections;
  * <p>The class is immutable and thread-safe.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 40fd95db30434ef85ba1a0955e5bb1c4b3c13f73 $
  * @since 1.1
  */
 public final class StreamsMfs implements Mfs {

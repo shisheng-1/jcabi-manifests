@@ -37,7 +37,7 @@ import java.util.Set;
  * Map of manifest attributes.
  *
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 9191b7e9a2d7c7db7294e30481bd46434ed2a733 $
  * @since 1.1
  * @see Manifests
  */

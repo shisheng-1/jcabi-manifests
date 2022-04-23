@@ -40,7 +40,7 @@ import org.junit.Test;
 /**
  * Test case for {@link Manifests}.
  * @author Yegor Bugayenko (yegor@tpc2.com)
- * @version $Id$
+ * @version $Id: 76cc77a37967c314493961787c751487e3be3324 $
  * @since 0.7
  */
 public final class ManifestsTest {
